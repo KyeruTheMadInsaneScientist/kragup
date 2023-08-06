@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KyeruTheMadInsaneScientist
+- 👋 Hi, I’m @kragup
 - 👀 I’m interested in studies about a.i.
-- 🌱 I’m currently learning pyrhon2.7
+- 🌱 I’m currently learning pyrhon and C/C++
 - 💞️ I’m looking to collaborate on mod monika after story
 - 📫 How to reach me kpimenteu@gmail.com
 
